@@ -1,7 +1,7 @@
 # Processing - Rotational Pattern
 
 > The aim was to emulate a swiss poster pattern I came across on [Dribbble](https://dribbble.com/shots/2198020-This-Station-Is-Non-Operational-At-The-Drive-In).
-While tinkering around the code, I began to play around with the *rotate property* and realized I could develop this intricate pattern by rotating the points about an axis which moves during each iteration of the nested loop.
+While tinkering around the code, I began to play around with the *rotate property* and realized I could develop this intricate pattern by rotating the points about an axis; which moves during each iteration of the nested loop.
 
 ### Method
 ---
@@ -13,7 +13,7 @@ The process is quite basic and I have outlined it below (the code is commented a
  - Rotate about the new origin at a fraction of the frame rate (can tweak this as it suits you.)
  - The color is intended to change at odd and even cycles of rotation. Also I am tweaking the opacity to bring the pattern forth slowly.
 
- > *I played around with the code a lot, before arriving at this final result, it never started in this specific manner as stated above.*
+ > *I played around with the code a lot, before arriving at this final result; it never started in this specific manner as stated above.*
 
 ### Further Notes
 ---
