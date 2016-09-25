@@ -6,7 +6,8 @@ While tinkering around the code, I began to play around with the *rotate propert
 ### Method
 
 The process is quite basic and I have outlined it below (the code is commented as well to depict the structure):
- 	- Illustrate a grid of ellipses with a nested for loop.
+ - #### Processing
+ - Illustrate a grid of ellipses with a nested for loop.
  	- While generating each elliptical dot , translate the origin of the grid to the center of the eliipse (we are plotting the eliipses in center mode).
  	- Plot the ellipse at a further distance (i,j) from this new origin. This helps in the ellipse paths crossing over onto each other.
 	- Rotate about the new origin at a fraction of the frame rate (can tweak this as it suits you.)
