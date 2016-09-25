@@ -1,3 +1,6 @@
+# Processing - Rotational Pattern
+---------------------------
+
 > The aim was to emulate a swiss poster pattern I came across on [Dribbble](https://dribbble.com/shots/2198020-This-Station-Is-Non-Operational-At-The-Drive-In).
 While tinkering around the code, I began to play around with the *rotate property* and realized I could develop this intricate pattern by rotating the points about an axis which moves during each iteration of the nested loop.
 
@@ -18,11 +21,14 @@ The process is quite basic and I have outlined it below (the code is commented a
 ### Final renders
 
 #### Images
+##### Pattern 1
 ![Sample 1](https://github.com/IllusionInk/Processing_Rotational-Pattern/blob/master/Art%20Renders/Pattern_1.jpg)
 
+##### Pattern 2
 ![Sample 2](https://github.com/IllusionInk/Processing_Rotational-Pattern/blob/master/Art%20Renders/Pattern_2.jpg)
 
-![Sample 3](https://github.com/IllusionInk/Processing_Rotational-Pattern/blob/master/Art%20Renders/Pattern_3.jpg)
+##### Pattern 3
+![Sample 3](https://github.com/IllusionInk/Processing_Rotational-Pattern/blob/master/Art%20Renders/Pattern_3.png)
 
 
 #### Videos
@@ -40,10 +46,7 @@ You can download the tool [here](https://processing.org/download/).
 
 ##### Quick Time
 
-
-
-
-jj
+LINK COMING SOON
 
 
 
