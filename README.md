@@ -4,13 +4,13 @@
 While tinkering around the code, I began to play around with the *rotate property* and realized I could develop this intricate pattern by rotating the points about an axis which moves during each iteration of the nested loop.
 
 ### Method
----
+
 The process is quite basic and I have outlined it below (the code is commented as well to depict the structure):
- 	1. Illustrate a grid of ellipses with a nested for loop.
- 	2. While generating each elliptical dot , translate the origin of the grid to the center of the eliipse (we are plotting the eliipses in center mode).
- 	3. Plot the ellipse at a further distance (i,j) from this new origin. This helps in the ellipse paths crossing over onto each other.
-	4. Rotate about the new origin at a fraction of the frame rate (can tweak this as it suits you.)
-	5. The color is intended to change at odd and even cycles of rotation. Also I am tweaking the opacity to bring the pattern forth slowly.
+ 	- Illustrate a grid of ellipses with a nested for loop.
+ 	- While generating each elliptical dot , translate the origin of the grid to the center of the eliipse (we are plotting the eliipses in center mode).
+ 	- Plot the ellipse at a further distance (i,j) from this new origin. This helps in the ellipse paths crossing over onto each other.
+	- Rotate about the new origin at a fraction of the frame rate (can tweak this as it suits you.)
+	- The color is intended to change at odd and even cycles of rotation. Also I am tweaking the opacity to bring the pattern forth slowly.
 
  > *I played around with the code a lot, before arriving at this final result, it never started in this specific manner as stated above.*
 
