@@ -68,5 +68,5 @@ The process is quite basic and I have outlined it below (the code is commented a
 
 ### Thanks
 ---
--  [Devin Sager](https://dribbble.com/shots/2198020-This-Station-Is-Non-Operational-At-The-Drive-In) for the dribble post reference.
+-  [Devin Sager](https://dribbble.com/shots/2198020-This-Station-Is-Non-Operational-At-The-Drive-In) for the Dribbble post reference.
 -  [Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  for the Processing Help.
