@@ -6,11 +6,11 @@ While tinkering around the code, I began to play around with the *rotate propert
 ### Method
 ---
 The process is quite basic and I have outlined it below (the code is commented as well to depict the structure):
-> 1. Illustrate a grid of ellipses with a nested for loop.
-> 2. While generating each elliptical dot , translate the origin of the grid to the center of the eliipse (we are plotting the eliipses in center mode).
-> 3. Plot the ellipse at a further distance (i,j) from this new origin. This helps in the ellipse paths crossing over onto each other.
-> 4. Rotate about the new origin at a fraction of the frame rate (can tweak this as it suits you.)
-> 5. The color is intended to change at odd and even cycles of rotation. Also I am tweaking the opacity to bring the pattern forth slowly.
+1. Illustrate a grid of ellipses with a nested for loop.
+2. While generating each elliptical dot , translate the origin of the grid to the center of the eliipse (we are plotting the eliipses in center mode).
+3. Plot the ellipse at a further distance (i,j) from this new origin. This helps in the ellipse paths crossing over onto each other.
+4. Rotate about the new origin at a fraction of the frame rate (can tweak this as it suits you.)
+5. The color is intended to change at odd and even cycles of rotation. Also I am tweaking the opacity to bring the pattern forth slowly.
 
  > *I played around with the code a lot, before arriving at this final result, it never started in this specific manner as stated above.*
 
@@ -20,8 +20,10 @@ The process is quite basic and I have outlined it below (the code is commented a
   - *Save Frame is used to generate frames for compiling the video later*
   
 
-#### Images
+### Final Renders
 ---
+#### Images
+
 ##### Pattern 1
 ![Sample 1](https://github.com/IllusionInk/Processing_Rotational-Pattern/blob/master/Art%20Renders/Pattern_1.jpg)
 
@@ -33,7 +35,7 @@ The process is quite basic and I have outlined it below (the code is commented a
 
 
 #### Videos
----
+
 
 [Rotational Pattern - Daydreaming](https://vimeo.com/184175456)
 
@@ -43,25 +45,22 @@ The process is quite basic and I have outlined it below (the code is commented a
 ### Tools Used
 ---
 
-##### Processing
-Processing is a java based environment for coding in the context of visual arts.  
-You can download the tool [here](https://processing.org/download/).
+ - ##### Processing
+   Processing is a java based environment for coding in the context of visual arts.  
+   You can download the tool [here](https://processing.org/download/).
 
-##### Quick Time
-
-
-
-link coming soon
+ - ##### Quick Time
+   link coming soon
 
 
 
 ### Reference
 ---
-[Processing Help Reference](https://processing.org/reference).
-I looked up the reference to understand some of the used concepts like push, pop for interacting with the co-ordiante system.
+ - [Processing Help Reference](https://processing.org/reference).
+   I looked up the reference to understand some of the used concepts like push, pop for interacting with the co-ordiante system.
 
-#### Video Compilation
-A tutorial video I referred, in order to generate a video from a set of images in processing, by the very helpful **Daniel Shiffman** (*check out his channel for some insane Processing content*)
+ - #### Video Compilation
+   A tutorial video I referred, in order to generate a video from a set of images in processing, by the very helpful **Daniel Shiffman** (*check out his channel for some insane Processing content*)
 
 [![Dribbble Post](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
