@@ -4,6 +4,7 @@
 While tinkering around the code, I began to play around with the *rotate property* and realized I could develop this intricate pattern by rotating the points about an axis which moves during each iteration of the nested loop.
 
 ### Method
+---
 
 The process is quite basic and I have outlined it below (the code is commented as well to depict the structure):
  - Illustrate a grid of ellipses with a nested for loop.
@@ -49,8 +50,9 @@ The process is quite basic and I have outlined it below (the code is commented a
    Processing is a java based environment for coding in the context of visual arts.  
    You can download the tool [here](https://processing.org/download/).
 
- - #### Quick Time
-   link coming soon
+ - #### Audacity
+   Used the tool for generating a sample from the song Daydreaming by Radiohead.  
+   [tool](http://www.audacityteam.org/).
 
 
 
@@ -60,11 +62,11 @@ The process is quite basic and I have outlined it below (the code is commented a
    I looked up the reference to understand some of the used concepts like push, pop for interacting with the co-ordiante system.
 
  - #### Video Compilation
-   A tutorial video I referred, in order to generate a video from a set of images in processing, by the very helpful **Daniel Shiffman** (*check out his channel for some insane Processing content*)
+   A [tutorial video](https://www.youtube.com/watch?v=G2hI9XL6oyk) I referred, in order to generate a video from a set of images in processing, by the very helpful [**Daniel Shiffman**](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (*check out his channel for some insane Processing content*)
 
-[![Dribbble Post](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+   
 
-### Sources
+### Thanks
 ---
--  Devin Sager
--  Daniel Shiffman
+-  [Devin Sager](https://dribbble.com/shots/2198020-This-Station-Is-Non-Operational-At-The-Drive-In) for the dribble post reference.
+-  [Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  for the Processing Help.
